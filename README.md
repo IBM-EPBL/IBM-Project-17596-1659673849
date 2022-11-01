@@ -3,6 +3,9 @@ A Novel Method for Handwritten Digit Recognition System
 **Project Contributors
 
 Saravanan S
+
 Prakash S T
+
 Tharun kumar S
+
 Dellibabu S

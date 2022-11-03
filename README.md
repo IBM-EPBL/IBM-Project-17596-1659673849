@@ -13,6 +13,5 @@ A Novel Method for Handwritten Digit Recognition System
 **TEAM MEMBERS :** DELLIBABU S
 
 
-***Technical Architecture***
 
-![download](https://user-images.githubusercontent.com/112863110/199284315-bdfbcd85-5235-4e4b-ab28-d01025ae7695.png)
+

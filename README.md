@@ -4,13 +4,13 @@ A Novel Method for Handwritten Digit Recognition System
 
 **Project Contributors**
 
-Saravanan S
+**TEAM LEADER  :**Saravanan S
 
-Prakash S T
+**TEAM MEMBERS :**Prakash S T
 
-Tharun kumar S
+**TEAM MEMBERS :**Tharun kumar S
 
-Dellibabu S
+**TEAM MEMBERS :**Dellibabu S
 
 
 **Technical Architecture**

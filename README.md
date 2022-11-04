@@ -15,3 +15,4 @@ A Novel Method for Handwritten Digit Recognition System
 
 
 
+![](https://svgur.com/i/nQ2.svg)

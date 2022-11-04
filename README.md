@@ -3,7 +3,7 @@
 
 <h1> <align="center"> A Novel Method for Handwritten Digit Recognition System </h1>
 
-**PROJECT CONTRIBUTERS :**
+**PROJECT CONTRIBUTORS :**
 
 **TEAM LEADER  :** SARAVANAN S
 

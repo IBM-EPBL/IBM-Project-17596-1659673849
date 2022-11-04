@@ -16,3 +16,10 @@ A Novel Method for Handwritten Digit Recognition System
 
 
 ![](https://svgur.com/i/nQ2.svg)
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->

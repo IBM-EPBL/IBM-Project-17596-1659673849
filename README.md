@@ -1,9 +1,9 @@
 
 # IBM-Project-17596-1659673849
 
-<h4 align="center"> A Novel Method for Handwritten Digit Recognition System  Made with <picture>
+<h1> <align="center"> A Novel Method for Handwritten Digit Recognition System </h1>
 
-***Project Contributors***
+**PROJECT CONTRIBUTERS :**
 
 **TEAM LEADER  :** SARAVANAN S
 

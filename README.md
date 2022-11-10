@@ -1,5 +1,9 @@
 
 # IBM-Project-17596-1659673849
+
+## ![IBM PROJECT](https://user-images.githubusercontent.com/112864489/201014048-ad614562-33c5-4034-a305-a8e5825b5749.gif)
+
+
 # TEAM ID - PNT2022TMID38603
 
 <h1> <align="center"> A Novel Method for Handwritten Digit Recognition System </h1>

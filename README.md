@@ -3,7 +3,7 @@
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/112864489/201017057-81d84088-71ab-46fd-9064-5e4d3a4357c1.gif)
 
-# TEAM ID - PNT2022TMID38603
+# TEAM ID - PNT2022TMID32608
 
 <h1> <align="center"> A Novel Method for Handwritten Digit Recognition System </h1>
 

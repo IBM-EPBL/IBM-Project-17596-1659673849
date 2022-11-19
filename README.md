@@ -5,6 +5,10 @@
 
 # TEAM ID - PNT2022TMID32608
 
+
+PROJECT DEMO LINK : https://youtu.be/3Vp2S4ER7pg
+
+
 <h1> <align="center"> A Novel Method for Handwritten Digit Recognition System </h1>
 
 **PROJECT CONTRIBUTORS :**
